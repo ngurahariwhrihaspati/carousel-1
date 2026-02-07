@@ -23,7 +23,32 @@
         background-repeat:no-repeat;
         background-size:cover;
         }
-        .carousel .carousel-inner .bg1 {
+        .bg1 {
+              background-image: url('projectA/img1.jpg');
+              background-size: cover;
+              background-position: center;
+       }
+       .bg2 {
+              background-image: url('projectA/img2.jpg');
+              background-size: cover;
+              background-position: center;
+       }
+       .bg3 {
+              background-image: url('projectA/img3.jpg');
+              background-size: cover;
+              background-position: center;
+       }
+       .bg4 {
+              background-image: url('projectA/img4.jpg');
+              background-size: cover;
+              background-position: center;
+       }
+       .bg5 {
+              background-image: url('projectA/img5.jpg');
+              background-size: cover;
+              background-position: center;
+       }
+        /* .carousel .carousel-inner .bg1 {
         background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/spiderweb.jpg');
         background-position: center top;
         }
@@ -34,7 +59,8 @@
         .carousel .carousel-inner .bg3 {
         background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg');
         background-position: center bottom;
-        }
+        } */
+
         /* Icon Buttons */
         .icon-button {
         position: fixed;
